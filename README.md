@@ -45,7 +45,7 @@ Suas escolhas influenciam:
 
 ## 📦 Download
 
-👉 [Baixar Blood And Silence](LINK_AQUI)
+👉 [Baixar Blood And Silence](https://zonicty.itch.io/)
 
 ---
 
@@ -67,7 +67,7 @@ Projeto criado por uma única desenvolvedora apaixonada por otome games, fantasi
 
 Se quiser deixar sua opinião ou acompanhar atualizações:
 
-👉 [Visite o Blog](bloodandsilencegame.netlify.app)
+👉 [Visite o Blog](https://bloodandsilencepage.netlify.app/)
 
 ---
 
