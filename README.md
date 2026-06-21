@@ -5,14 +5,14 @@
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 ![Screenshot 1](img/screenshot11.png)
 ![Screenshot 2](img/screenshot2.png)
 
 ---
 
-## 🌒 Sobre o Jogo
+##  Sobre o Jogo
 
 Blood And Silence é uma visual novel independente focada em narrativa, romance e consequências emocionais.
 
@@ -43,13 +43,13 @@ Suas escolhas influenciam:
 
 ---
 
-## 📦 Download
+##  Download
 
-👉 [Baixar Blood And Silence](https://zonicty.itch.io/)
+[Baixar Blood And Silence](https://zonicty.itch.io/)
 
 ---
 
-## 🛠 Tecnologias
+##  Tecnologias
 
 - Engine: Ren’Py
 - Roteiro original publicado no Wattpad
@@ -63,11 +63,11 @@ Projeto criado por uma única desenvolvedora apaixonada por otome games, fantasi
 
 ---
 
-## 📬 Feedback
+##  Feedback
 
 Se quiser deixar sua opinião ou acompanhar atualizações:
 
-👉 [Visite o Blog](https://bloodandsilencepage.netlify.app/)
+ [Visite o Blog](https://bloodandsilencepage.netlify.app/)
 
 ---
 
